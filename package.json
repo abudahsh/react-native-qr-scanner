@@ -4,6 +4,7 @@
   "description": "this is qrcode scanner.",
   "main": "index.js",
   "nativePackage": true,
+  "homepage": "https://github.com/abudahsh/react-native-qr-scanner/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
